@@ -1,2 +1,2 @@
 # retail-sales-analysis
-End-to-end retail sales analysis using Python, SQL, Power BI and DAX.
+End-to-end retail sales analytics project featuring data cleaning with Python, business analysis in SQL, and interactive Power BI dashboards.
