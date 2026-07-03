@@ -27,8 +27,10 @@ An end-to-end retail sales analysis project using **Python, SQL, and Power BI**.
 
 ## Dashboard Preview
 
+## Page 1
+
 ![Dashboard Page 1](dashboard_screenshots/Retail%20Sales%20Dashboard%20page%201.png)
 
-### Page 2
+## Page 2
 
 ![Dashboard Page 2](dashboard_screenshots/Retail%20Sales%20Dashboard%20page%202.png)
